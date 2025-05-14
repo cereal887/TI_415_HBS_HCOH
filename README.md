@@ -383,7 +383,7 @@ Anabrp. (2017, 16 marzo). Presentación «El proyecto Tecnológico» [Diapositiv
 <p>
 <p>
 
-<marquee> HernándezㅤCarmonaㅤOsmarㅤYahirㅤㅤyㅤㅤHuertaㅤBaronaㅤSergioㅤㅤ-ㅤㅤ415 </marquee>
+<> HernándezㅤCarmonaㅤOsmarㅤYahirㅤㅤyㅤㅤHuertaㅤBaronaㅤSergioㅤㅤ-ㅤㅤ415 </>
 
 <p>
 </p>
