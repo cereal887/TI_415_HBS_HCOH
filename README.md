@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
-    <style>
+   
         body {
             font-family: Arial, sans-serif;
         }
@@ -23,7 +23,7 @@
             border: 1px solid #ccc;
             margin: 10px 0;
         }
-    </style>
+    
 <nav>
     <a href="#home">Diseño de soluciones innovadoras</a>
     <a href="#about">Construcción de proyectos tecnológicos</a>
